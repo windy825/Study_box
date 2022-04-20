@@ -1,8 +1,8 @@
- ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=63&section=header&text=공지사항&fontSize=35)
+# 공 통
 
 <br>
 
-### 팀 안내
+### 0. 팀 안내
 
 |     분 야      |        일 정        | 팀 장 |                            상 세                             | 비 고 |
 | :------------: | :-----------------: | :---: | :----------------------------------------------------------: | :---: |
@@ -13,4 +13,14 @@
 |   **자바-2**   |        미 정        |       | [자바-2](https://github.com/windy825/Study_box/tree/master/자바-2) |       |
 |    **장고**    |        미 정        |       | [장고](https://github.com/windy825/Study_box/tree/master/장고) |       |
 |   **CS면접**   |        미 정        |       | [CS면접](https://github.com/windy825/Study_box/tree/master/CS면접) |       |
+
+<br>
+
+<br>
+
+### 1. 안내사항
+
+```
+
+```
 
