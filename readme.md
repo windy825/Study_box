@@ -2,7 +2,7 @@
 
 <br>
 
-# 자바 팀 의견 공유가 진행중입니다. [바로가기](https://github.com/windy825/Study_box/issues/1)
+# 팀별 의견 공유가 진행중입니다. [바로가기](https://github.com/windy825/Study_box/issues/1)
 
 <br>
 
