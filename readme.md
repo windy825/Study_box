@@ -2,6 +2,7 @@
 
 <br>
 
+<<<<<<< HEAD
 ### 팀별 의견 공유가 진행중입니다. [바로가기](https://github.com/windy825/Study_box/issues/1)
 
 ### 이전 스터디 자료 [바로가기](https://github.com/windy825/Python_study)
