@@ -21,7 +21,7 @@
 | **알고리즘-2** | 화, 목 22:00 ~ 23:00 | 이동욱, 한재혁 | [알고리즘-2](https://github.com/windy825/Study_box/tree/master/알고리즘-2) |     출제자     |
 | **알고리즘-3** | 화    18:00 ~ 19:30  |     김이랑     | [Algorithm_study](https://github.com/LeeRangKim/Algorithm_study) | 일정 따로 진행 |
 |   **프론트**   |        미 정         |                | [프론트](https://github.com/windy825/Study_box/tree/master/프론트) |                |
-|    **자바**    |    평일 (투표 중)    |     김지현     | [자바](https://github.com/windy825/Study_box/tree/master/자바-1) |                |
+|    **자바**    |    평일 (투표 중)    |     김지현     | [자바-스프링](https://github.com/windy825/Study_box/tree/master/자바-스프링) |                |
 |    **장고**    |        미 정         |                | [장고](https://github.com/windy825/Study_box/tree/master/장고) |                |
 |   **CS면접**   |    주 말 (주 1회)    |     최혁주     | [CS면접](https://github.com/windy825/Study_box/tree/master/CS면접) |                |
 
