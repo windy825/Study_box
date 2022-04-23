@@ -64,7 +64,7 @@
 
 4. [Coding-interview](https://github.com/qkraudghgh/coding-interview)
 
-5. [Tech_interview](https://github.com/SSAFY-CS-STUDY/Tech_interview)
+5. [SSAFY Tech_interview](https://github.com/SSAFY-CS-STUDY/Tech_interview)
 
 
 
