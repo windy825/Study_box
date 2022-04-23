@@ -57,7 +57,7 @@
 
 > #### 교재 후보 (추가 가능)
 
-1. [Tech Interview](https://gyoogle.dev/blog/computer-science/data-structure/LinkedList.html)
+1. [Tech Interview](https://gyoogle.dev/blog/computer-science/data-structure/Linked%20List.html)
 
 2. [Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 
