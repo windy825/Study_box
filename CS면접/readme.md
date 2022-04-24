@@ -47,5 +47,13 @@
 
 - 세미나 순서 : 김수빈, 김채리, 임진현 -> 김이랑, 김지현, 이주영 -> 신혜원, 최혁주, 한재혁
 
+
+
+### Reference
+
+- [Coding-interview](https://github.com/qkraudghgh/coding-interview)
+
+
+
 *추후 세부적인 사항과 진행방식은 스터디를 진행하면서 지속적으로 수정 및 보완할 예정
 
