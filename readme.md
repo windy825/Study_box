@@ -32,7 +32,6 @@
 - 팀 폴더, 팀 세부 readme는 이제 팀장님께 위임 됩니다.
 </details>
 
-
 <details close>
 <summary>[자바] 04/23 1차</summary>
 <br>
@@ -50,6 +49,7 @@
 - 새로운 팀장님으로 지현님이 탄생하셨습니다. <br><br>
 - 기타 내용은 자바 톡방을 참고 하세요<br><br>
 - 기타 내용과 세부 일정은 자바 톡방과 팀폴더 README를 참조하세요<br> <br>
+</details>
 
 <br>
 
