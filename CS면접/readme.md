@@ -19,10 +19,6 @@
 
 <br>
 
-### Reference
-
-- [Coding-interview](https://github.com/qkraudghgh/coding-interview)
-
 <hr>
 
 ## Study Rule (ver. 22.04.24) 
@@ -45,8 +41,6 @@
   
      혹은 챕터 전체를 다루지 않고 다음 차례로 남은 부분을 넘길수도 있다. 
   
-    <br>
-  
   - 대신 세미나가 있기 전 스터디 인원 모두에게 그 주의 세미나 내용 및 진행방식에 관해 공지해주고
   
     그 사항과 관련하여 수정된 내용이 있다면 모두가 납득할 수 있어야 한다.
@@ -66,6 +60,12 @@
 <br>
 
 *추후 세부적인 사항과 진행방식은 스터디를 진행하면서 지속적으로 수정 및 보완할 예정
+
+<hr>
+
+### Reference
+
+- [Coding-interview](https://github.com/qkraudghgh/coding-interview)
 
 <hr>
 
