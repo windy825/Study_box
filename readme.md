@@ -1,10 +1,8 @@
-# 공 통
+<br>
 
 #### 이전 스터디 자료 : [바로가기](https://github.com/windy825/Python_study)
 
 #### 공지사항 및 스터디 : [디스코드](https://discord.gg/RCdbpzACVd)
-
----
 
 <br>
 
