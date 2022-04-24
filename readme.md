@@ -33,7 +33,7 @@
 
 
 <details close>
-<summary>[ CS ] 04/24 1차 </summary>
+<summary>[ CS ] 04/22 1차 </summary>
 <br>
 통합 1팀으로 매주 일요일 ??시에 세미나 방식으로 진행 (3~4명 발표)<br><br>
 공부 순서 : 운영체제, 자료구조 - 네트워크 - 데이터 베이스<br><br>
