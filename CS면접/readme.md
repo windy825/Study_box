@@ -6,6 +6,7 @@
 ```
 
 <hr>
+
 ### 금주의 세미나 담당(5/1) : 김수빈, 김채리, 임진현
 
 <br>
@@ -65,4 +66,3 @@
 - [Coding-interview](https://github.com/qkraudghgh/coding-interview)
 
 <hr>
-
