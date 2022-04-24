@@ -8,7 +8,7 @@
 
 | S u b j e c t | 일 정 |                            내 용                             | 비 고 |
 | :-----------: | :---: | :----------------------------------------------------------: | :---: |
-|      OS       |  5/1  | [OS란?, 프로세스와 스레드, CPU 스케줄링](https://github.com/windy825/Study_box/tree/master/CS면접/1.OS) |       |
+|      OS       |  5/1  | [OS란?](https://github.com/windy825/Study_box/blob/master/CS면접/1.OS/OS-1.OS란.md) & [프로세스와 스레드](https://github.com/windy825/Study_box/blob/master/CS면접/1.OS/OS-2.프로세스와 스레드.md) & [CPU 스케줄링](https://github.com/windy825/Study_box/blob/master/CS면접/1.OS/OS-3.CPU 스케줄링.md) |       |
 |               |       |                                                              |       |
 |               |       |                                                              |       |
 
