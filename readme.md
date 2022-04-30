@@ -2,11 +2,11 @@
 
 #### 이전 스터디 자료 : [바로가기](https://github.com/windy825/Python_study)
 
-#### 공지사항 및 스터디 : [디스코드](https://discord.gg/RCdbpzACVd)
+#### 공지사항 및 스터디 : [디스코드](https://discord.gg/R CdbpzACVd)
 
 <br>
 
-### 0. 출발회의 들만 표시됩니다. <span style="color:red">상세내용은 팀 폴더 참조</span>
+### 0. 출발회의 들만 표시됩니다. <span style="color:red">상   세내용은 팀 폴더 참조</span>
 
 <details close>
     <summary>[장고] 04/24 1차</summary>
