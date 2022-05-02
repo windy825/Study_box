@@ -1,4 +1,4 @@
-### Study Rule (ver. 22.04.24) 
+### Study Rule (ver. 22.05.02) 
 
 ##### 진행 방식 
 
