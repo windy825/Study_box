@@ -6,9 +6,9 @@
 >
 > 외부로부터의 조치가 없는 한 이들은 아무 일도 하지 못하고 계속 기다려야하는 무한대기에 빠지는데 이 상황을 **교착상태**라고 한다.
 
- ![데드락2](교착상태 (DeadLock).assets/데드락2.png)
+ ![데드락2](교착상태(DeadLock).assets/데드락2.png)
 
-![데드락](교착상태 (DeadLock).assets/데드락.png)
+![데드락](교착상태(DeadLock).assets/데드락.png)
 
 - 문제점
   1. 해당 프로세스들이 더이상 실행되지 못하여 사용자들에게 응답 불가
@@ -222,12 +222,12 @@
 
 - **자원 할당 그래프**(RAG) 를 이용
 
-<img src="교착상태 (DeadLock).assets/RAG.png" alt="RAG" style="zoom:150%;" />
+![RAG](교착상태(DeadLock).assets/RAG.png)
 
 - 프로세스 `Pi`로부터 자원 `Rj`로의 방향 간선은 `Pi` ->`Rj`로 표현하며 이것은 프로세스 `Pi`가 자원 `Rj`을 요청하는 것으로 현재 이 자원을 기다리는 상태를 의미
 - 자원 `Rj`로부터 프로세스 `Pi`로의 방향 간선은 `Rj`->`Pi`로 표현하며 이것은 자원이 프로세스 `Pi`에 이미 할당된 것을 의미
 
-<img src="교착상태 (DeadLock).assets/pi-Rj.png" alt="pi-Rj" style="zoom:80%;" />
+<img src="교착상태(DeadLock).assets/pi-Rj.png" alt="pi-Rj" style="zoom:80%;" />
 
 > #### 단점
 >
