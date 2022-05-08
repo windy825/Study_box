@@ -1,0 +1,15 @@
+.hidden {
+  display: none;
+}
+
+.bgImage{
+  position:absolute;
+  left:0;
+  top:0;
+max-width:100%;
+  min-width:1880px;;
+  max-height:1400px;
+  min-height:1200px;
+  z-index:-5;
+  filter: brightness(30%);
+}
