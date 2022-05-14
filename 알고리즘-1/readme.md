@@ -14,7 +14,8 @@
 | **5 / 5 (목)**  | [가장큰수](https://programmers.co.kr/learn/courses/30/lessons/42746), [합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413) | 두 문제 합쳐 80분  |      |
 | **5/10  (화)**  | [피로도](https://programmers.co.kr/learn/courses/30/lessons/87946),[불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064) | 두 문제 합쳐 80분  |      |
 |  **5/12 (목)**  | [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677), [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | 두 문제 합쳐 80분  |      |
-|  **5/17 (화)**  | [예상대진표](https://programmers.co.kr/learn/courses/30/lessons/12985), [다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486) | 두 문제 합쳐 100분 |      |
+|  **5/17 (화)**  | [주차요금계산](https://programmers.co.kr/learn/courses/30/lessons/92341), [다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486) | 두 문제 합쳐 100분 |      |
+|  **5/19 (목)**  | [삼각달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645), [예상대진표](https://programmers.co.kr/learn/courses/30/lessons/12985) | 두 문제 합쳐 100분 |      |
 
 <br>
 
