@@ -67,10 +67,6 @@
   window.addEventListener("contextmenu", superEventHandler.handleRightClick);
   ```
 
-
-
-***
-
 * style.css
 
   ```css

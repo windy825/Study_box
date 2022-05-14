@@ -48,7 +48,14 @@
   </html>
   ```
 
-  
+* 파일구조: 
+
+  * src
+    * index.js
+
+  * index.html
+  * package.json
+
 
 
 
