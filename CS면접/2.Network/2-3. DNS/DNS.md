@@ -101,29 +101,29 @@
 
 #### Domain Name System의 과정
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
 
 - **DNS란?**
 
