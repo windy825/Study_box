@@ -129,11 +129,15 @@
 
   Domain Name System의 약자로 도메인 이름과 IP 주소를 대응해주는 분산 DB 형태의 저장소를 운영하는 저장소이자 또 다르게는 우리가 사용하는 언어로 이루어진 도메인 이름을 실제 IP주소로 변환해주거나, 그 반대의 변환을 해주는 서비스를 의미
 
+  
+
 - **Domain Name의 구조**
 
   ![DNS란](https://github.com/SSAFY-CS-STUDY/Tech_interview/raw/main/01.network/kmj/images/dnsServer.png)
 
   Root DNS server는 Top level의 주소를 알고 있고, Top level 서버는 second level의 주소, second level 서버는 sub의 주소를 알고 있습니다. 모든 DNS 서버는 루트의 주소를 알고 있고, sub(마지막 레벨) 서버가 Domain Name의 최종 ip 주소를 알려줍니다
+
+  
 
 - **Domain Name System의 과정을 설명해주세요**
 
