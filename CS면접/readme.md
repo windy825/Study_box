@@ -3,7 +3,7 @@
 
 
 
-### :microphone: 6월까지 쉬어갑니다...zZ
+### :microphone: 6월이 오기까지 쉬어갑니다...zZ
 
 <br>
 
@@ -17,6 +17,7 @@
 
 
 <hr>
+
 ### Reference
 
 - [Coding-interview](https://github.com/qkraudghgh/coding-interview)
