@@ -17,6 +17,7 @@
 |  **5/17 (화)**  | [주차요금계산](https://programmers.co.kr/learn/courses/30/lessons/92341), [다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486) | 두 문제 합쳐 100분 |      |
 |  **5/19 (목)**  | [삼각달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645), [예상대진표](https://programmers.co.kr/learn/courses/30/lessons/12985) | 두 문제 합쳐 100분 |      |
 |    5/31(화)     | [문자열탐색](https://programmers.co.kr/learn/courses/30/lessons/60057),[입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | 두 문제 합쳐 100분 |      |
+|   **6/2(목)**   | [빛의경로사이클](https://programmers.co.kr/learn/courses/30/lessons/86052),[야근지수](https://programmers.co.kr/learn/courses/30/lessons/86052) |                    |      |
 
 <br>
 
