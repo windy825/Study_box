@@ -20,6 +20,8 @@
 |   **6/2(목)**   | [빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052),[야근지수](https://programmers.co.kr/learn/courses/30/lessons/12927) | 두 문제 합쳐 100분 |      |
 |   **6/7(화)**   | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627), [공 이동 시뮬레이션](https://programmers.co.kr/learn/courses/30/lessons/87391) | 두 문제 합쳐 100분 |      |
 |   **6/9(목)**   | [지형 이동](https://programmers.co.kr/learn/courses/30/lessons/62050), [방금 그 곡](https://programmers.co.kr/learn/courses/30/lessons/17683) | 두 문제 합쳐 100분 |      |
+|  **6/14(화)**   | [신규아이디추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | 두 문제 합쳐 100분 |      |
+|  **6/16(목)**   |                                                              |                    |      |
 
 <br>
 
