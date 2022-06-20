@@ -23,7 +23,7 @@
 |  **6/14(화)**   | [신규아이디추천](https://programmers.co.kr/learn/courses/30/lessons/72410),[보석쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | 두 문제 합쳐 100분 |      |
 |  **6/16(목)**   | [랜선자르기](https://www.acmicpc.net/problem/1654), [스타트택시](https://www.acmicpc.net/problem/19238) | 두 문제 합쳐 100분 | 백준 |
 |  **6/21(화)**   | [최소비용](https://www.acmicpc.net/problem/1916),[키순서](https://www.acmicpc.net/problem/2458) | 두 문제 합쳐 100분 |      |
-|  **6/23(목)**   | [배달](https://programmers.co.kr/learn/courses/30/lessons/12978) | 두 문제 합쳐 100분 |      |
+|  **6/23(목)**   | [배달](https://programmers.co.kr/learn/courses/30/lessons/12978), [양궁대회](https://programmers.co.kr/learn/courses/30/lessons/92342) | 두 문제 합쳐 100분 |      |
 
 <br>
 
